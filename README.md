@@ -23,5 +23,5 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 
 **Live Dashboard Link**: [ReviveIQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRkOTBkYjctYzI2Ny00NGFkLTljN2EtOGFlZDk4OTU4MTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-# ReviveIQ Insights Project
+
 
