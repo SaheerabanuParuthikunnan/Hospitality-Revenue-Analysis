@@ -22,6 +22,6 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 - Implemented tailored KPI’s and metrics, which could help to 15% increase in revenue and 20% improvement in recapture the market share.
 
 
-**Live Dashboard Link**: [ReviveIQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRkOTBkYjctYzI2Ny00NGFkLTljN2EtOGFlZDk4OTU4MTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Live Dashboard Link**: [ReviveIQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmE1NjZjODgtMWUwOC00NWUyLWE1NzEtMTk4MjQ0ZjYwMDFlIiwidCI6ImNlZmRjNTQyLTY3OTUtNDNlYi04NzQ2LTExNzdhOGM2Yjc2NiJ9)
 
 
