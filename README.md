@@ -26,7 +26,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
   revenue generated through it. So providing discount coupons exclusively for direct online booking will help for raising revenue.
 
 ## Impact
-- Implemented tailored KPI’s and metrics, which could help to 15% increase in revenue and 20% improvement in recapture the market share.
+- Implemented tailored KPIs and metrics, which could help to 15% increase in revenue and 20% improvement in recapture the market share.
 
 \
 \
